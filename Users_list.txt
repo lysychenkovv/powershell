@@ -1,1 +1,4 @@
 #Put here your active directory users login (SAMAccountName)
+ad user login
+ad user login2
+ad user login3
